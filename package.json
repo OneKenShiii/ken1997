@@ -4,12 +4,16 @@
   "main": "index.js",
   "author": "ken",
   "license": "MIT",
-  "bin" : {
-    "hello" : "./index.js",
-    "verGlo" : "./a.bat"
+  "bin": {
+    "hello": "./index.js",
+    "verGlo": "./a.bat"
   },
   "repository": {
-  "type" : "git",
-  "url" : "https://github.com/OneKenShiii/ken1997.git"
+    "type": "git",
+    "url": "https://github.com/OneKenShiii/ken1997.git"
+  },
+  "dependencies": {
+    "npmlist0": "^0.1.0",
+    "nychtap-test": "^0.1.0"
   }
 }
